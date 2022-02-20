@@ -2,14 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/App';
 
-import bootstrap from 'bootstrap'; // eslint-disable-line no-unused-vars
+import bootstrap from 'bootstrap'; 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
-import "./assets/css/argon.min.css"; // ok traido de la plantilla original
+import "./assets/css/argon.min.css"; 
 import "./assets/css/font-awesome.min.css";
-import "./assets/css/main.css"; // traido de la plantilla original
+import "./assets/css/main.css"; 
 
-// Multilanguage
 
 
 import './index.css';
